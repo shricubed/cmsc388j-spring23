@@ -74,22 +74,22 @@ The instructors usually won't have set office hours, but you can email or DM us 
 ## Schedule
 | Week | Date  | Topic                                          | Assignment                                      |
 | ---- | ----- | ---------------------------------------------- | ----------------------------------------------- |
-| 1    | 9/2   | Intro to Python                                | P1 assigned                                     |
-| 2    | 9/9   | Flask Intro                                    | P1 due, P2 assigned, Quiz 1 assigned: weeks 1-2 |
-| 3    | 9/16  | Forms, CSRF                                    | Quiz 1 due                                      |
-| 4    | 9/23  | Databases, Injection Attacks                   | P2 due, P3 assigned, Quiz 2 assigned: weeks 3-4 |
-| 5    | 9/30  | User Management                                | Quiz 2 due                                      |
-| 6    | 10/7  | Bootstrap & more                               | P3 due, P4 assigned, Quiz 3 assigned: weeks 5-6 |
-| 7    | 10/14 | In-depth CSS & JS*                             | Quiz 3 due                                      |
-| 8    | 10/21 | *None - break week*                            | P4 due                                          |
-| 9    | 10/28 | Extensions, Logging, App Factories, Blueprints | P5 assigned                                     |
-| 10   | 11/4  | HTTP Headers & Talisman                        | Quiz 4 assigned, weeks 7-10                     |
-| 11   | 11/11 | Two-Factor Authentication                      | P5 due, Quiz 4 due, Final Project assigned      |
-| 12   | 11/18 | Some Useful Python Packages                    | Proposal due, Quiz 5 assigned, weeks 11-12      |
-| 13   | 11/25 | *THANKSGIVING BREAK*                           |                                                 |
-| 14   | 12/2  | Deploying your app                             | Quiz 5 due                                      |
-| 15   | 12/9  | Payments with Stripe*                          |                                                 |
-| 16   | 12/?? | *None - finals week*                           | Final Project due                               |
+| 1    | 1/27  | Intro to Python                                | P1 assigned                                     |
+| 2    | 2/3   | Flask Intro                                    | P1 due, P2 assigned, Quiz 1 assigned: weeks 1-2 |
+| 3    | 2/10  | Forms, CSRF                                    | Quiz 1 due                                      |
+| 4    | 2/17  | Databases, Injection Attacks                   | P2 due, P3 assigned, Quiz 2 assigned: weeks 3-4 |
+| 5    | 2/24  | User Management                                | Quiz 2 due                                      |
+| 6    | 3/3   | Bootstrap & more                               | P3 due, P4 assigned, Quiz 3 assigned: weeks 5-6 |
+| 7    | 3/10  | In-depth CSS & JS*                             | Quiz 3 due                                      |
+| 8    | 3/17  | *Spring Break*                                 | P4 due                                          |
+| 9    | 3/24  | *Spring Break*                                 | P5 assigned                                     |
+| 10   | 3/31  | HTTP Headers & Talisman                        | Quiz 4 assigned, weeks 7-10                     |
+| 11   | 4/7   | Two-Factor Authentication                      | P5 due, Quiz 4 due, Final Project assigned      |
+| 12   | 4/14  | Some Useful Python Packages                    | Proposal due, Quiz 5 assigned, weeks 11-12      |
+| 13   | 4/21  | Extensions, Logging                            |                                                 |
+| 14   | 4/28  | Deploying your app                             | Quiz 5 due                                      |
+| 15   | 5/5   | Payments with Stripe                           |                                                 |
+| 16   | 5/12  | *None - finals week*                           | Final Project due                               |
 
 * See **Flexible Schedule** section below
 
