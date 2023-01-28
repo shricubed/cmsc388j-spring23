@@ -1,10 +1,10 @@
 # P1: Python practice 
 
-**Assigned**: September 2nd, 2022
+**Assigned**: January 28th, 2023
 
-**Due**: September 8th, 2022 11:59PM
+**Due**: February 3rd, 2023 11:59PM
 
-**Late deadline**: September 11th 11:59PM
+**Late deadline**: February 6th, 2023 11:59PM
 
 ## Description
 
