@@ -1,10 +1,10 @@
 # P2: First Flask App - Poke-Info
 
-**Assigned**: Week 2, February 3rd, 2022
+**Assigned**: February 4th, 2023
 
-**Due**: Week 4, February 15th, 2022, 11:59 PM
+**Due**: February 16th, 2023, 11:59 PM
 
-**Late Deadline**: Friday, February 18th, 11:59 PM
+**Late Deadline**: February 19, 11:59 PM
 
 ## Description
 
