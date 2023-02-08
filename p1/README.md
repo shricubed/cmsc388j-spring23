@@ -88,7 +88,7 @@ In `practice.py`, implement the following functions:
 
 4. `sum_multiples(num)`
 
-    Given a positive integer `num`, find the sum of all multiples of 3 and 5 upto and not including `num`.
+    Given a positive integer `num`, find the sum of all multiples of 3 and 5 up to and not including `num`.
 
     Examples:
     ```python
@@ -146,7 +146,7 @@ In `practice.py`, implement the following functions:
    >>> custom_sort([1, 2, 3, 4, 5])
    [(1, 3, 5, 2, 4)]
    ```
-   (Hint: use a lambda function)
+   (Hint: use a lambda function.)
 
 
 
