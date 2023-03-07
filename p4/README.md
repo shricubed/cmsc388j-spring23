@@ -1,8 +1,8 @@
 # P4: Movie Ratings Database Pro Max Plus S
 
-**Assigned**: Week 6, March 2nd, 2022
+**Assigned**: March 7nd, 2023
 
-**Due**: Week 8, March 15th, 2022, 11:59 PM
+**Due**: March 28th, 2023, 11:59 PM
 
 **Late Deadline**: Refer to syllabus for the policy.
 
