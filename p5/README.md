@@ -1,10 +1,10 @@
 # Project 5: Untested Apps? No, Broken Apps.
 
-**Assigned**: Week 9, March 30th, 2022
+**Assigned**: Week 9, April 3rd, 2023
 
-**Due**: Week 11, April 12th, 2022
+**Due**: Week 11, April 16th, 2023
 
-**Late Deadline**: April 15th, 2022
+**Late Deadline**: April 19th, 2023
 
 ## Description
 
